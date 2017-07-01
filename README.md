@@ -1,0 +1,2 @@
+# KudamonoIjinKudantyu
+地元の偉人と果物の紹介時のスクリプト
